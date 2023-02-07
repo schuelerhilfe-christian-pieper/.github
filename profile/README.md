@@ -1,6 +1,6 @@
 # Schülerhilfe Christian Pieper
 
-![](https://www.schuelerhilfe.de/typo3conf/ext/schuelerhilfe_theme/Resources/Public/Images/Frontend/sh-logo-mobile.svg)
+![](./sh-logo-mobile.svg)
 
 ## Standorte
 
