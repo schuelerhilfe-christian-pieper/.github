@@ -1,6 +1,8 @@
 # Schülerhilfe Christian Pieper
 
-Standorte:
+![](https://www.schuelerhilfe.de/typo3conf/ext/schuelerhilfe_theme/Resources/Public/Images/Frontend/sh-logo-mobile.svg)
+
+## Standorte
 
 * [https://www.schuelerhilfe.de/buende](https://www.schuelerhilfe.de/buende)
 * [https://www.schuelerhilfe.de/espelkamp](https://www.schuelerhilfe.de/espelkamp)
