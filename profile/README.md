@@ -1,6 +1,6 @@
 # Schülerhilfe Christian Pieper
 
-![](./sh-logo-mobile.svg)
+![](https://raw.githubusercontent.com/schuelerhilfe-christian-pieper/.github/main/profile/sh-logo-mobile.svg)
 
 ## Standorte
 
